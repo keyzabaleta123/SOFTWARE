@@ -16,7 +16,8 @@ En cada lenguaje, se han desarrollado las siguientes clases:
 - `User` 
 - `Drive`
 
-[![OOT.jpg](https://i.postimg.cc/VvH7Rxfj/OOT.jpg)](https://postimg.cc/Fk3gFnJR)
+[![imagen1.png](https://i.postimg.cc/zf1dSsPs/imagen1.png)](https://postimg.cc/4YBbXSGP)
+
 
 ### ✨ Creado por: **Keyly Zabaleta**
 
